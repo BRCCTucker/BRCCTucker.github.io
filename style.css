@@ -1,0 +1,69 @@
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    color: #1c1c1c;
+    background: #1c1c1c;
+    font-size: 16px;
+}
+
+header, footer {
+    background: #d20306;
+}
+
+header {
+    border-bottom: 1px solid #fac311;
+}
+
+footer {
+    border-top: 1px solid #fac311;
+}
+
+h1, h2 {
+    font-style: italic;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+th {
+    font-style: italic;
+    color: #eeeaeafc;
+}
+
+table {
+    width: 100%;
+}
+
+.left {
+    float:left;
+    margin-right: 5px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background: #eeeaeafc;
+    font-size: 1em;
+}
+
+.about {
+    border-bottom: 1px solid #d20306;
+}
+
+.dk_col {
+    background: #5e5a5a;
+}
+
